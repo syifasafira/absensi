@@ -21,7 +21,7 @@
         <div class="col-12">
           <div class="login-card login-dark">
             <div>
-              <div><a class="logo" href="#"><img class="img-fluid for-light" src="<?= base_url('/assets'); ?>/images/logo/logo.png" alt="looginpage"></a></div>
+              <div><a class="logo" href="#"><img class="img-fluid for-light" src="<?= base_url('/assets'); ?>/images/logo/" alt="looginpage"></a></div>
               <div class="login-main">
                 <div class="form-group">
                   <label class="col-form-label">Enter Your Email Address</label>
