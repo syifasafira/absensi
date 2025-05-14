@@ -73,7 +73,7 @@
                                     <use href="<?= base_url('/assets'); ?>/svg/icon-sprite.svg#fill-user"></use>
                                 </svg><span>Users</span></a>
                             <ul class="sidebar-submenu">
-                                <li><a href="user-profile.html">User Profile</a></li>
+                                <li><a href="<?= base_url('mahasiswa/profile'); ?>">User Profile</a></li>
                                 <li><a href="add-user.html">Add User</a></li>
                                 <li>
                                     <label class="badge badge-light-success">New</label><a href="user-list.html">User List</a>
